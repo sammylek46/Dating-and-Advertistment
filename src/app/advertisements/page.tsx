@@ -1,0 +1,2 @@
+export const metadata = { title: "Advertisements" };
+export default function AdvertisementsPage() { return <section className="shell py-16"><p className="eyebrow">Local discovery</p><h1 className="mt-3 text-5xl font-black">Advertisements</h1><p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">Search and filtering will appear here once the moderated advertisement service is connected. Only published advertisements will ever be public.</p></section>; }

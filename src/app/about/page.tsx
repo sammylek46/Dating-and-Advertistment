@@ -1,0 +1,2 @@
+export const metadata = { title: "About" };
+export default function AboutPage() { return <section className="shell py-16"><p className="eyebrow">Our approach</p><h1 className="mt-3 text-5xl font-black">Professional context. Human connection.</h1><p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">Linkwell is designed for adults who value substance, safety, and their local community. We keep connection intentional and advertising accountable.</p></section>; }

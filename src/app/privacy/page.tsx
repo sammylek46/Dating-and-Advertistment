@@ -1,0 +1,2 @@
+export const metadata = { title: "Privacy" };
+export default function PrivacyPage() { return <section className="shell py-16"><p className="eyebrow">Legal</p><h1 className="mt-3 text-5xl font-black">Privacy</h1><p className="mt-6 max-w-2xl leading-8 text-slate-600">We collect only what is necessary to operate the service, keep dates of birth private, and enforce visibility choices on the server. A jurisdiction-specific privacy notice must be reviewed before launch.</p></section>; }

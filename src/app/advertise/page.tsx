@@ -1,0 +1,3 @@
+import Link from "next/link";
+export const metadata = { title: "Advertise" };
+export default function AdvertisePage() { return <section className="shell py-16"><p className="eyebrow">For businesses and professionals</p><h1 className="mt-3 text-5xl font-black">Reach a local community with credibility.</h1><p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">Create a complete listing, submit it for moderation, then understand how people engage. Promotion tools will be introduced only with transparent terms.</p><Link className="button button-primary mt-8" href="/register">Create an advertiser account</Link></section>; }

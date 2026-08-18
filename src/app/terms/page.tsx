@@ -1,0 +1,2 @@
+export const metadata = { title: "Terms" };
+export default function TermsPage() { return <section className="shell py-16"><p className="eyebrow">Legal</p><h1 className="mt-3 text-5xl font-black">Terms of service</h1><p className="mt-6 max-w-2xl leading-8 text-slate-600">Final terms require counsel review before launch. Linkwell is for adults only and does not permit exploitation, harassment, fraud, illegal transactions, or harmful content.</p></section>; }
